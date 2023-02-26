@@ -34,6 +34,7 @@ const bj = (start, params) => {
         }
         const result = paramRE.exec(key)?.groups;
         if (!result) {
+            console.log({key, paramRE})
             orphans.push(params[key]);
             return;
         }
@@ -68,11 +69,12 @@ const bj = (start, params) => {
         iPoints.push(last);
     }
 
-    if (iPoints.length == 0 && orphans.length == 2) {
+    console.log({last})
+    if ((last===null || iPoints.length == 0) && orphans.length == 2) {
         iPoints.push(makePt(orphans));
     } else {
         if (orphans.length > 0) {
-            console.log("unhandled orphans", orphans);
+            console.log("unhandled orphans", orphans, 'nPoints:', iPoints.length);
         }
     }
 
