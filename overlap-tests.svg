@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 3600 3600" version="1.1"
+    xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+    xml:space="preserve" xmlns:serif="http://www.serif.com/"
+    style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <path d="M1287.82,803.953l1068.86,1542.27" style="fill:none;stroke:rgb(170,0,60);stroke-width:45.83px;"/>
+    <circle cx="1608.77" cy="2250" r="450" style="fill:rgb(255,128,128);"/>
+    <circle cx="1608.77" cy="1290.75" r="450" style="fill:rgb(125,255,124);stroke:rgb(0,48,255);stroke-width:45.83px;"/>
+    <path d="M612.944,2250c270.573,-1063.11 1151.29,-1903.1 2046.77,-186.916c117.55,225.283 132.89,-838.485 0,-585.421c-866.905,1650.86 -1642.87,839.886 -2046.77,-186.916c-131.788,-335.035 -96.256,1337.46 0,959.253Z" style="fill:none;stroke:rgb(0,47,116);stroke-width:45.83px;"/>
+    <path d="M612.944,2250c270.573,-1063.11 1151.29,-1903.1 2046.77,-186.916c117.55,225.283 132.89,-838.485 0,-585.421c-866.905,1650.86 -1642.87,839.886 -2046.77,-186.916c-131.788,-335.035 -96.256,1337.46 0,959.253Z" style="fill:none;stroke:rgb(0,47,116);stroke-width:45.83px;"/>
+    <path d="
+    M1205.47,772.628
+    c
+    1063.11,270.572 
+    1903.1,1151.29
+    186.916,2046.77
+    c-225.283,117.55 838.485,132.89 585.42,-0
+    c-1650.86,-866.905 -839.885,-1642.87 186.917,-2046.77
+    " style="fill:none;stroke:rgb(181,0,205);stroke-width:45.83px;"
+    more="
+    "
+    />
+    <circle cx="1608.77" cy="1800" r="450" style="fill:none;stroke:rgb(132,0,255);stroke-width:45.83px;"/>
+    <path d="M1956.93,2673.92l-1016.79,-1473.86" style="fill:none;stroke:rgb(181,127,0);stroke-width:45.83px;"/>
+    <g id="Eyeballs">
+        <circle cx="2123.22" cy="1800" r="450" style="fill:rgb(255,254,121);stroke:rgb(0,241,255);stroke-width:45.83px;"/>
+        <circle cx="1100.31" cy="1800" r="450" style="fill:rgb(255,191,88);"/>
+    </g>
+</svg>

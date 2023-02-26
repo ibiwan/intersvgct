@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.dev/svgjs" width="3601" height="3602">
+    <line x1="1287.82" y1="803.953" x2="2356.68" y2="2346.223" stroke-width="45.83" stroke="#aa003c"></line>
+    <circle r="450" cx="1608.77" cy="2250" fill="#ff8080"></circle>
+    <circle r="450" cx="1608.77" cy="1290.75" fill="#7dff7c" stroke-width="45.83" stroke="#0030ff"></circle>
+    <path d="M 612.944 2250 C 883.5169999999999 1186.89 1764.234 346.9000000000001 2659.714 2063.084" stroke-width="45.83" stroke="#002f74" fill="none"></path>
+    <path d="M 2659.714 2063.084 C 2777.264 2288.3669999999997 2792.604 1224.5989999999997 2659.714 1477.6629999999998" stroke-width="45.83" stroke="#002f74" fill="none"></path>
+    <path d="M 2659.714 1477.663 C 1792.809 3128.523 1016.844 2317.549 612.944 1290.747" stroke-width="45.83" stroke="#002f74" fill="none"></path>
+    <path d="M 612.944 1290.747 C 481.15599999999995 955.712 516.688 2628.2070000000003 612.944 2250" stroke-width="45.83" stroke="#002f74" fill="none"></path>
+    <path d="M 612.944 2250 C 883.5169999999999 1186.89 1764.234 346.9000000000001 2659.714 2063.084" stroke-width="45.83" stroke="#002f74" fill="none"></path>
+    <path d="M 2659.714 2063.084 C 2777.264 2288.3669999999997 2792.604 1224.5989999999997 2659.714 1477.6629999999998" stroke-width="45.83" stroke="#002f74" fill="none"></path>
+    <path d="M 2659.714 1477.663 C 1792.809 3128.523 1016.844 2317.549 612.944 1290.747" stroke-width="45.83" stroke="#002f74" fill="none"></path>
+    <path d="M 612.944 1290.747 C 481.15599999999995 955.712 516.688 2628.2070000000003 612.944 2250" stroke-width="45.83" stroke="#002f74" fill="none"></path>
+    <path d="M 1205.47 772.628 C 2268.58 1043.2 3108.5699999999997 1923.9180000000001 1392.386 2819.398" stroke-width="45.83" stroke="#b500cd" fill="none"></path>
+    <path d="M 1392.386 2819.398 C 1167.103 2936.9480000000003 2230.871 2952.288 1977.806 2819.398" stroke-width="45.83" stroke="#b500cd" fill="none"></path>
+    <path d="M 1977.806 2819.398 C 326.94600000000014 1952.4930000000002 1137.921 1176.5280000000002 2164.723 772.6280000000002" stroke-width="45.83" stroke="#b500cd" fill="none"></path>
+    <circle r="450" cx="1608.77" cy="1800" fill="none" stroke-width="45.83" stroke="#8400ff"></circle>
+    <line x1="1956.93" y1="2673.92" x2="940.1400000000001" y2="1200.0600000000002" stroke-width="45.83" stroke="#b57f00"></line>
+    <circle r="450" cx="2123.22" cy="1800" fill="#fffe79" stroke-width="45.83" stroke="#00f1ff"></circle>
+    <circle r="450" cx="1100.31" cy="1800" fill="#ffbf58"></circle>
+</svg>
